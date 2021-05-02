@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.goosedefi.com/',
+        href: 'https://app.gadexswap.finance/',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.goosedefi.com/#/pool',
+        href: 'https://app.gadexswap.finance/#/pool',
       },
     ],
   },
@@ -55,15 +55,15 @@ const config: MenuEntry[] = [
       },
       {
         label: 'CoinGecko',
-        href: 'https://www.coingecko.com/en/coins/goose-finance',
+        href: '#',
       },
       {
         label: 'CoinMarketCap',
-        href: 'https://coinmarketcap.com/currencies/goose-finance/',
+        href: '#',
       },
       {
         label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0x19e7cbecdd23a16dfa5573df54d98f7caae03019',
+        href: '#',
       },
     ],
   },
@@ -72,28 +72,32 @@ const config: MenuEntry[] = [
     icon: 'MoreIcon',
     items: [
       {
+        label: 'Whitepaper',
+        href: '#',
+      },
+      {
         label: 'Github',
-        href: 'https://github.com/goosedefi/',
+        href: 'https://github.com/gadexswap/',
       },
       {
         label: 'Docs',
-        href: 'https://goosedefi.gitbook.io/goose-finance/',
+        href: '#',
       },
       {
         label: 'Blog',
-        href: 'https://goosefinance.medium.com/',
+        href: 'https://gadexswap.medium.com/',
       },
     ],
   },
   {
     label: 'Audit by Hacken',
     icon: 'AuditIcon',
-    href: 'https://www.goosedefi.com/files/hackenAudit.pdf',
+    href: '#',
   },
   {
     label: 'Audit by CertiK',
     icon: 'AuditIcon',
-    href: 'https://certik.org/projects/goose-finance',
+    href: '#',
   },
 ]
 
