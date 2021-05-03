@@ -13,7 +13,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'GADEX',
     tokenAddresses: {
       97: '',
-      56: '0xd538142dca6d06c8807a008513fe08cc774a60da',
+      56: '0x80c1d7d8458bf83f6c37bcc4cd8f28d1eb085ddb',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -29,7 +29,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'GADEX',
     tokenAddresses: {
       97: '',
-      56: '0xd538142dca6d06c8807a008513fe08cc774a60da',
+      56: '0x80c1d7d8458bf83f6c37bcc4cd8f28d1eb085ddb',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
@@ -110,7 +110,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'GADEX',
     tokenAddresses: {
       97: '',
-      56: '0xd538142dca6d06c8807a008513fe08cc774a60da',
+      56: '0x80c1d7d8458bf83f6c37bcc4cd8f28d1eb085ddb',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
