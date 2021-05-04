@@ -75,7 +75,7 @@
     {
       "data": {
         "stringId": 304,
-        "text": "Total GADEX burned since launch"
+        "text": "Total GADex burned since launch"
       }
     },
     {
@@ -123,13 +123,13 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Stake LP tokens to earn GADEX"
+        "text": "Stake LP tokens to earn GADex"
       }
     },
     {
       "data": {
         "stringId": 322,
-        "text": "Stake GADEX, get SYRUP."
+        "text": "Stake GADex, get SYRUP."
       }
     },
     {
@@ -153,7 +153,7 @@
     {
       "data": {
         "stringId": 334,
-        "text": "Every time you stake and unstake GADEX tokens, the contract will automatically harvest GADEX rewards for you!"
+        "text": "Every time you stake and unstake GADex tokens, the contract will automatically harvest GADex rewards for you!"
       }
     },
     {
@@ -219,7 +219,7 @@
     {
       "data": {
         "stringId": 358,
-        "text": "GADEX price"
+        "text": "GADex price"
       }
     },
     {
@@ -243,7 +243,7 @@
     {
       "data": {
         "stringId": 380,
-        "text": "1 GADEX = 1 SYRUP"
+        "text": "1 GADex = 1 SYRUP"
       }
     },
     {
@@ -291,7 +291,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of GADEX block emissions each day (10 GADEX per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of GADex block emissions each day (10 GADex per block), Rewards are distributed each block."
       }
     },
     {
@@ -351,13 +351,13 @@
     {
       "data": {
         "stringId": 424,
-        "text": "%num% GADEX"
+        "text": "%num% GADex"
       }
     },
     {
       "data": {
         "stringId": 426,
-        "text": "Spend GADEX to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+        "text": "Spend GADex to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
       }
     },
     {
@@ -435,19 +435,19 @@
     {
       "data": {
         "stringId": 454,
-        "text": "%num% GADEX Available"
+        "text": "%num% GADex Available"
       }
     },
     {
       "data": {
         "stringId": 456,
-        "text": "Your amount must be a multiple of 10 GADEX"
+        "text": "Your amount must be a multiple of 10 GADex"
       }
     },
     {
       "data": {
         "stringId": 458,
-        "text": "1 Ticket = 10 GADEX"
+        "text": "1 Ticket = 10 GADex"
       }
     },
     {
@@ -495,7 +495,7 @@
     {
       "data": {
         "stringId": 478,
-        "text": "Ticket purchases are final. Your GADEX cannot be returned to you after buying tickets."
+        "text": "Ticket purchases are final. Your GADex cannot be returned to you after buying tickets."
       }
     },
     {
@@ -507,7 +507,7 @@
     {
       "data": {
         "stringId": 482,
-        "text": "GADEX prizes to be claimed"
+        "text": "GADex prizes to be claimed"
       }
     },
     {
@@ -543,13 +543,13 @@
     {
       "data": {
         "stringId": 494,
-        "text": "Approve GADEX"
+        "text": "Approve GADex"
       }
     },
     {
       "data": {
         "stringId": 496,
-        "text": "SYRUP holders proportionally split 40% of GADEX block emissions each day (10 GADEX per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 40% of GADex block emissions each day (10 GADex per block), Rewards are distributed each block."
       }
     },
     {
@@ -567,19 +567,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using GADEX-BNB LP tokens, which means you need to stake equal amounts of GADEX and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using GADex-BNB LP tokens, which means you need to stake equal amounts of GADex and BNB in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get GADEX-BNB LP >"
+        "text": "Get GADex-BNB LP >"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, Gadex Finance burns the GADEX."
+        "text": "The project gets the BNB, GADexSwap burns the GADex."
       }
     },
     {
@@ -597,7 +597,7 @@
     {
       "data": {
         "stringId": 514,
-        "text": "Launch your project with Gadex Finance, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
+        "text": "Launch your project with GADexSwap, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
       }
     },
     {
@@ -645,7 +645,7 @@
     {
       "data": {
         "stringId": 534,
-        "text": "GADEX Stats"
+        "text": "GADex Stats"
       }
     },
     {
@@ -663,7 +663,7 @@
     {
       "data": {
         "stringId": 540,
-        "text": "New GADEX\/block"
+        "text": "New GADex\/block"
       }
     },
     {
@@ -675,19 +675,19 @@
     {
       "data": {
         "stringId": 544,
-        "text": "GADEX to Harvest"
+        "text": "GADex to Harvest"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "GADEX in Wallet"
+        "text": "GADex in Wallet"
       }
     },
     {
       "data": {
         "stringId": 548,
-        "text": "Collecting GADEX"
+        "text": "Collecting GADex"
       }
     },
     {
@@ -699,7 +699,7 @@
     {
       "data": {
         "stringId": 552,
-        "text": "GADEX to Collect"
+        "text": "GADex to Collect"
       }
     },
     {
@@ -753,7 +753,7 @@
     {
       "data": {
         "stringId": 576,
-        "text": "Gadex Finance"
+        "text": "GADexSwap"
       }
     },
     {
@@ -765,7 +765,7 @@
     {
       "data": {
         "stringId": 580,
-        "text": "Stake GADEX to earn new tokens."
+        "text": "Stake GADex to earn new tokens."
       }
     },
     {
@@ -783,7 +783,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "GADEX to burn (USD)"
+        "text": "GADex to burn (USD)"
       }
     },
     {
@@ -795,7 +795,7 @@
     {
       "data": {
         "stringId": 590,
-        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest GADEX rewards for you!"
+        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest GADex rewards for you!"
       }
     },
     {
@@ -813,13 +813,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy GADEX and BNB tokens"
+        "text": "Buy GADex and BNB tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get GADEX-BNB LP tokens by adding GADEX and BNB liquidity"
+        "text": "Get GADex-BNB LP tokens by adding GADex and BNB liquidity"
       }
     },
     {
@@ -831,7 +831,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your GADEX-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your GADex-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -867,7 +867,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for GADEX, or keep for your collection!"
+        "text": "Trade in for GADex, or keep for your collection!"
       }
     },
     {
@@ -909,7 +909,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "When you trade in this NFT to receive GADEX, you will lose access to it forever!"
+        "text": "When you trade in this NFT to receive GADex, you will lose access to it forever!"
       }
     },
     {
@@ -939,7 +939,7 @@
     {
       "data": {
         "stringId": 638,
-        "text": "Winners can trade in their NFTs for a GADEX value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+        "text": "Winners can trade in their NFTs for a GADex value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
       }
     },
     {
@@ -981,7 +981,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for GADEX"
+        "text": "Trade in for GADex"
       }
     },
     {
@@ -1107,7 +1107,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP tokens to earn GADEX"
+        "text": "Stake LP tokens to earn GADex"
       }
     },
     {
@@ -1149,13 +1149,13 @@
     {
       "data": {
         "stringId": 708,
-        "text": "The GADEX Lottery"
+        "text": "The GADex Lottery"
       }
     },
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with GADEX"
+        "text": "Buy tickets with GADex"
       }
     },
     {
@@ -1209,7 +1209,7 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "Deposit Fee will be used to buyback GADEX"
+        "text": "Deposit Fee will be used to buyback GADex"
       }
     },
     {
@@ -1221,7 +1221,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Stake tokens to earn GADEX"
+        "text": "Stake tokens to earn GADex"
       }
     },
     {
