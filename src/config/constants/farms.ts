@@ -8,7 +8,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'GADEX-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '0x19e7cbecdd23a16dfa5573df54d98f7caae03019',
+      56: '0xdAe1CD930f468b2b5e37807d31d5273C0F280B77',
     },
     tokenSymbol: 'GADEX',
     tokenAddresses: {
@@ -24,7 +24,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'GADEX-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0xd1b59d11316e87c3a0a069e80f590ba35cd8d8d3',
+      56: '0x07EC5B3E511e5c998032211B60Abc57dA7613cFc',
     },
     tokenSymbol: 'GADEX',
     tokenAddresses: {
@@ -105,7 +105,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'GADEX',
     lpAddresses: {
       97: '',
-      56: '0x19e7cbecdd23a16dfa5573df54d98f7caae03019', // GADEX-BUSD LP
+      56: '0xdAe1CD930f468b2b5e37807d31d5273C0F280B77', // GADEX-BUSD LP
     },
     tokenSymbol: 'GADEX',
     tokenAddresses: {
@@ -122,7 +122,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'BUSD',
     lpAddresses: {
       97: '',
-      56: '0x19e7cbecdd23a16dfa5573df54d98f7caae03019', // GADEX-BUSD LP (BUSD-BUSD will ignore)
+      56: '0xdAe1CD930f468b2b5e37807d31d5273C0F280B77', // GADEX-BUSD LP (BUSD-BUSD will ignore)
     },
     tokenSymbol: 'BUSD',
     tokenAddresses: {
