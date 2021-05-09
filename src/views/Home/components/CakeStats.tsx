@@ -27,14 +27,14 @@ const CakeStats = () => {
   const totalSupply = useTotalSupply()
   const burnedBalance = useBurnedBalance(getCakeAddress())
   const farms = useFarms();
-  const gadexPrice = usePriceCakeBusd();
+  const eggPrice = usePriceCakeBusd();
   const circSupply = totalSupply ? totalSupply.minus(burnedBalance) : new BigNumber(0);
   const cakeSupply = getBalanceNumber(circSupply);
-  const marketCap = gadexPrice.times(circSupply);
+  const marketCap = eggPrice.times(circSupply);
 
-  let gadexPerBlock = 0;
-  if(farms && farms[0] && farms[0].gadexPerBlock){
-    gadexPerBlock = new BigNumber(farms[0].gadexPerBlock).div(new BigNumber(10).pow(18)).toNumber();
+  let eggPerBlock = 0;
+  if(farms && farms[0] && farms[0].eggPerBlock){
+    eggPerBlock = new BigNumber(farms[0].eggPerBlock).div(new BigNumber(10).pow(18)).toNumber();
   }
 
   return (
@@ -61,7 +61,7 @@ const CakeStats = () => {
         </Row>
         <Row>
           <Text fontSize="14px">{TranslateString(540, 'New GADEX/block')}</Text>
-          <Text bold fontSize="14px">{gadexPerBlock}</Text>
+          <Text bold fontSize="14px">{eggPerBlock}</Text>
         </Row>
       </CardBody>
     </StyledCakeStats>

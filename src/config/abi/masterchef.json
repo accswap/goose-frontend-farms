@@ -2,8 +2,8 @@
   {
     "inputs": [
       {
-        "internalType": "contract Gadex",
-        "name": "_gadex",
+        "internalType": "contract Egg",
+        "name": "_egg",
         "type": "address"
       },
       {
@@ -18,7 +18,7 @@
       },
       {
         "internalType": "uint256",
-        "name": "_gadexPerBlock",
+        "name": "_eggPerBlock",
         "type": "uint256"
       },
       {
@@ -154,10 +154,10 @@
   },
   {
     "inputs": [],
-    "name": "gadex",
+    "name": "egg",
     "outputs": [
       {
-        "internalType": "contract Gadex",
+        "internalType": "contract Egg",
         "name": "",
         "type": "address"
       }
@@ -168,7 +168,7 @@
   },
   {
     "inputs": [],
-    "name": "gadexPerBlock",
+    "name": "eggPerBlock",
     "outputs": [
       {
         "internalType": "uint256",
@@ -235,7 +235,7 @@
       },
       {
         "internalType": "uint256",
-        "name": "accGadexPerShare",
+        "name": "accEggPerShare",
         "type": "uint256"
       },
       {
@@ -434,7 +434,7 @@
         "type": "address"
       }
     ],
-    "name": "pendingGadex",
+    "name": "pendingEgg",
     "outputs": [
       {
         "internalType": "uint256",
@@ -545,7 +545,7 @@
     "inputs": [
       {
         "internalType": "uint256",
-        "name": "_gadexPerBlock",
+        "name": "_eggPerBlock",
         "type": "uint256"
       }
     ],

@@ -81,7 +81,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Blog',
-        href: 'https://gadex.medium.com/',
+        href: 'https://gadexswap.medium.com/',
       },
     ],
   },
